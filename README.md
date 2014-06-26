@@ -18,7 +18,7 @@ So, to implement the GamEXP you'll need:
 Basic Setup
 --------------------
 To quickly setup the GamEXP with this game and my server example, you need to first setup the server (can be done locally).
-Then you should edit the Constants.cs, typing your server url and the game name you've set up for this experiment on the server.
+Then you should edit the Constants.cs (found on this game Assets/Scripts folder), typing your server url and the game name you've set up for this experiment on the server.
 
 Last but not least, take your time reading and understanding the code (it's not good, I guarantee it).
 If you need some support, mail me: arielfbello@gmail.com
