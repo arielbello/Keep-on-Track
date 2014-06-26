@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Constants.cs" Line="10" Column="44" />
+      <File FileName="..\..\Monsterbed\Copa 2014\Copa2014\Assets\Scripts\UI\MiniCrack.cs" Line="1" Column="1" />
+      <File FileName="..\..\Monsterbed\Copa 2014\Copa2014\Assets\Scripts\AttackResult.cs" Line="1" Column="1" />
+      <File FileName="..\..\Monsterbed\Copa 2014\Copa2014\Assets\Scripts\MatrixManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
